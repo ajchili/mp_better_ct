@@ -12,6 +12,9 @@ A Call of Duty Black Ops mod aimed at introducing better features to the Combat 
 ## bugs
 * When prestiging, rank does not reset to 1
 
+## getting started
+There are currently no release/beta builds of the mod, however, you can download or fork the repo then build the mod yourself to use it. You can see how to do that [below](https://github.com/ajchili/mp_better_ct#getting-started-development)
+
 ## getting started (development)
 _This pertains to both development of this mod as well as other mods_
 
