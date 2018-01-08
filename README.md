@@ -3,9 +3,9 @@ A Call of Duty Black Ops mod aimed at introducing better features to the Combat 
 
 
 ### getting started (development)
-_This pertains to both development of this mod as well as other mods._
+_This pertains to both development of this mod as well as other mods_
 
-The basic requirements for development are listed below.
+The basic requirements for development are listed below:
 * [Call of Duty: Black Ops](http://store.steampowered.com/app/42700/Call_of_Duty_Black_Ops/) I recommend the steam version as it comes with the mod tools, if you get the game other ways you **need** to get the mod tools as well
 * [MohaaScriptEditor](https://github.com/ajchili/mp_better_ct/blob/master/MohaaScriptEditor.exe) Originally recommended [here](http://www.moddb.com/mods/ultimate-combat-training/downloads/uct-v154) by [wcp75](http://www.moddb.com/members/wcp75), I use it because it works
 * A text editor, I use [Notepad++](https://notepad-plus-plus.org/)
@@ -18,7 +18,7 @@ How to get started with the mod
     * Creating a mod
       1. Click 'Tools' in the menubar
       2. Click 'New mod...' in the drop down menu
-      3. Name your mod, **if it is for multiplayer you MUST include "mp_" before the title of your mod**E:\SteamLibrary\steamapps\common\Call of Duty Black Ops\mods\mp_better_ct"
+      3. Name your mod, **if it is for multiplayer you MUST include "mp_" before the title of your mod**
     * Loading mp_better_cp
       1. Download or fork the repo
       2. Place the repo inside of "GAME_INSTALL_DIR/mods/mp_better_ct"
