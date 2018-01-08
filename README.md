@@ -1,6 +1,16 @@
 # mp_better_ct
 A Call of Duty Black Ops mod aimed at introducing better features to the Combat Training mode.
 
+## features
+* Presitge in Combat Training
+
+## planned features
+* Additional game modes
+* Additional player customization
+* Ability to reset/set level
+
+## bugs
+* When prestiging, rank does not reset to 1
 
 ### getting started (development)
 _This pertains to both development of this mod as well as other mods_
