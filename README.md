@@ -12,7 +12,7 @@ A Call of Duty Black Ops mod aimed at introducing better features to the Combat 
 ## bugs
 * When prestiging, rank does not reset to 1
 
-### getting started (development)
+## getting started (development)
 _This pertains to both development of this mod as well as other mods_
 
 The basic requirements for development are listed below:
